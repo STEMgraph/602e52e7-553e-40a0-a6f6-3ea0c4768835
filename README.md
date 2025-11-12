@@ -1,6 +1,7 @@
 <!---
 {
   "id": "602e52e7-553e-40a0-a6f6-3ea0c4768835",
+  "teaches": "Serving Local Directories with Nginx and Server Blocks",
   "depends_on": ["b9e34253-61e2-4fb7-bd36-388c370fa765"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-05-06",
